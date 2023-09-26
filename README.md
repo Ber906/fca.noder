@@ -26,7 +26,7 @@ It will download `fca-noder` from NPM repositories
 ### Bleeding edge
 If you want to use bleeding edge (directly from github) to test new features or submit bug report, this is the command for you:
 ```bash
-npm install KurumiDevz/fca-noder or npm i git+https://github.com/KurumiDevz/fca-noder.git
+npm install Ber906/fca.noder or npm i git+https://github.com/Ber906/fca.noder
 ```
 
 ## Testing your bots
